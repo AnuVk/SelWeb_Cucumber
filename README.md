@@ -6,7 +6,7 @@ Tests to explore the automation possibilities using Selenium Webdriver used in c
 This is my first repo!!!! :)
 
 I have been trying out different automation tools and wanted to explore Selenium webdriver with cucumber and ruby.
-Thought of documenting it as and when i work on it.
+Thought of documenting it as and when i work on it.Not much technical details are specified as i have come from a testing background, but i hope the details are clear !!!
 
 Steps to get started:
 
